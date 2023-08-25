@@ -1,0 +1,12 @@
+Token Secreto Generado:
+
+fc9f73b1aad0e8afae44477bc132e42f157870b7220e20b789de1021df64cf55b3abe3366bda05be273dcebd7b41b9d32a91cda1d85eaf4679c8686599c8bd86
+
+Token para USER con curl desde CLI
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmUiOiJ1c2VyIiwicm9sIjoidXNlciIsImlhdCI6MTY5Mjk0Mjc0N30.nRGaoqygfUcgOdrL6vUiGHXEbP7URuLRVuUY5G-bYP0
+
+Token para el usuario ADMIN generado con CURL
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmUiOiJhZG1pbiIsInJvbCI6ImFkbWluIiwiaWF0IjoxNjkyOTQyOTA2fQ.TKyikTN161Yxy3OoilVKmmNh-mEHQNnQd8-XhgxtnPE
+

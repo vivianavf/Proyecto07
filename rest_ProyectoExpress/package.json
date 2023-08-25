@@ -1,0 +1,27 @@
+{
+  "name": "rest-proyectoexpress",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "swagger-autogen": "node swagger.js",
+    "packages:install": "npm install sequelize pg && npm install --save-dev sequelize-cli"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^9.0.1",
+    "morgan": "~1.9.1",
+    "mysql2": "^3.6.0",
+    "railway": "^2.0.17",
+    "sequelize": "^6.32.1",
+    "sequelize-auto": "^0.8.8",
+    "swagger-autogen": "^2.23.5",
+    "swagger-ui-express": "^5.0.0"
+  }
+}

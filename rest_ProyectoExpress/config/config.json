@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "comprasOnline",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "nv9rurOAOlgaIIU1m42A",
+    "database": "railway",
+    "host": "containers-us-west-180.railway.app",
+    "dialect": "mysql"
+  }
+}
